@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfdc4ccd-bdab-49e2-9ad3-e5323812d15f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrow_large_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrow_large_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrow_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrow_left2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrow_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrow_right2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrowleft.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrowright.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/arrows.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/black50.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/boxed_bgtile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/bullet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/bullet_boxed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/bullets.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/bullets.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/bullets2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/coloredbg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/grain.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/gridtile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/gridtile_3x3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/gridtile_3x3_white.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/gridtile_white.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/large_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/large_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/loader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/loader2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/navigdots.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/navigdots_bgtile.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/shadow1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/shadow2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/shadow3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/small_arrows.psd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/small_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/small_left_boxed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/small_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/small_right_boxed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/timer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/timerdot.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/transparent.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/white50.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/contact.send.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/animate.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/font.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/helper.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/jquery.countdown.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/jquery.mCustomScrollbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/magnific-popup.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/owl.carousel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/owl.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/owl.transitions.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/pe-icon-7-stroke.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/revolution-extralayers.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/revolution.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/salvattore.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-black-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-black-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-black-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-black-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-black-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-bold-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-bold-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-bold-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-bold-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-bold-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-hairline-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-hairline-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-hairline-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-hairline-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-hairline-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-light-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-light-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-light-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-light-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-light-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-regular-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-regular-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-regular-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-regular-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/montserrat-regular-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/revicons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/revicons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/revicons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fonts/revicons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg-funfacts.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg-testimonial.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/bg-venue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/download.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/gallery-img.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hotel-img1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hotel-img2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hotel-img3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hotel-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/hotel-logo@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logo@2x.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/map-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/plus.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide_thumb_1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide_thumb_2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide_thumb_3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/slide_thumb_4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/speaker8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sponsor1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sponsor2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sponsor3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sponsor4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/sponsor5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/testimonial3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb12.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb13.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb14.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/thumb9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/.scrutinizer.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/.travis.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/LICENSE" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/PHPMailerAutoload.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/changelog.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/class.phpmailer.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/class.pop3.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/class.smtp.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/Callback_function_notes.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/DomainKeys_notes.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/Note_for_SMTP_debugging.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/extending.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/faq.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/generatedocs.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/docs/pop3_article.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/LGPLv3.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/code_generator.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/contents.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/exceptions.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/gmail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/images/phpmailer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/images/phpmailer_mini.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/mail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/mailing_list.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/pop_before_smtp.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/scripts/XRegExp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/scripts/shAutoloader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/scripts/shBrushPhp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/scripts/shCore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/scripts/shLegacy.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/sendmail.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/smtp.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/smtp_no_auth.phps" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCore.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreDjango.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreEclipse.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreEmacs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreFadeToGrey.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreMDUltra.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreMidnight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shCoreRDark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeAppleScript.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeDefault.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeDjango.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeEclipse.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeEmacs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeFadeToGrey.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeMDUltra.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeMidnight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeRDark.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/shThemeVisualStudio.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/examples/styles/wrapping.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/extras/EasyPeasyICS.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/extras/class.html2text.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/extras/htmlfilter.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/extras/ntlm_sasl_client.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ar.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-be.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-br.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ca.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ch.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-cz.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-de.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-dk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-el.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-eo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-es.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-et.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-fa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-fi.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-fo.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-fr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-gl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-he.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-hu.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-it.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ja.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ka.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-lt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-lv.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-nl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-no.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-pl.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-pt.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ro.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-ru.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-se.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-sk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-tr.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-uk.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-zh.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/language/phpmailer.lang-zh_cn.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/bootstrap.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/fakepopserver.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/fakesendmail.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/phpmailerLangTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/phpmailerTest.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/runfakepopserver.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/test_callback.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/test/testbootstrap-dist.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/inc/phpmailer/travis.phpunit.xml.dist" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.1.min.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.countdown.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mCustomScrollbar.concat.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.magnific-popup.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.sticky.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jquery.themepunch.tools.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/retina.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/salvattore.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/waypoints.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/newsletter.send.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/register.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/speaker-detail.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="1681" column="56" lean-forward="false" selection-start-line="1681" selection-start-column="56" selection-end-line="1681" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-918">
+              <caret line="336" column="0" lean-forward="false" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.countdown.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery.countdown.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Days</find>
+      <find>eventrDrupal</find>
+      <find>venue</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/jquery.countdown.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="149" />
+    <option name="y" value="27" />
+    <option name="width" value="1900" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="drupalcamp2019_static" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupalcamp2019_static" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="drupalcamp2019_static" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupalcamp2019_static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="drupalcamp2019_static" type="b2602c69:ProjectViewProjectNode" />
+              <item name="drupalcamp2019_static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfdc4ccd-bdab-49e2-9ad3-e5323812d15f" name="Default" comment="" />
+      <created>1541971695945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541971695945</updated>
+      <workItem from="1541971697294" duration="15015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15015000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="34" width="1920" height="989" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/salvattore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.countdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="336" column="0" lean-forward="false" selection-start-line="336" selection-start-column="0" selection-end-line="336" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pe-icon-7-stroke.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="1681" column="56" lean-forward="false" selection-start-line="1681" selection-start-column="56" selection-end-line="1681" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
